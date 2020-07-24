@@ -1,0 +1,13 @@
+{
+    "text": "Teferi's Age Insight",
+	"icon_emoji":":teferi:",
+    "attachments": [
+        {
+          	"color":"#2e3b66",
+            "ts": "",
+            "title": "Teferi's Age Insight",
+            "text": "",
+			"footer":"Birthdays today"
+        }
+    ]
+}
